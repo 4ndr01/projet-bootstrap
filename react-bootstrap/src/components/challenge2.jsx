@@ -1,8 +1,11 @@
 import React from "react";
+import Nav from "./nav";
 
 
 function Challenge2() {
     return (
+        <>
+            <Nav/>
         <div className="container">
             <div className="row">
                 <div className="col-md-12">
@@ -60,6 +63,7 @@ function Challenge2() {
                 </div>
             </div>
         </div>
+        </>
     );
 }
 
