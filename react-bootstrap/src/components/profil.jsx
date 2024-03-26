@@ -16,9 +16,9 @@ function Profil() {
                             <h3 className="text-center">Profil</h3>
                         </div>
                         <div className="mb-3 row">
-                            <label htmlFor="exampleInputName" className="form-label">Name:</label>
-                            <label htmlFor="exampleInputName" className="form-label">LastName:</label>
-                            <label htmlFor="exampleInputName" className="form-label">Nombres de challenges réalisés</label>
+                            <label htmlFor="exampleInputName" className="form-label">Name:Hugo</label>
+                            <label htmlFor="exampleInputName" className="form-label">LastName:Lacouille</label>
+                            <label htmlFor="exampleInputName" className="form-label">Nombres de challenges réalisés:</label>
                         </div>
                     </div>
 

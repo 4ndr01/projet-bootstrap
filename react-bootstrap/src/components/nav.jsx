@@ -8,8 +8,9 @@ function Navbar() {
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container">
                     <img src="/assets/image%203.svg" alt="logo" width="30" height="30"
-                         className="d-inline-block align-top"/>
-                    <a className="navbar-brand" href="/">Mon Application</a>
+                         className="d-inline-block align-top"
+                         style={{width: '80px', height: '80px'}}/>
+                    <a className="navbar-brand fs-2" href="/">Mon Application</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarNav"
                             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
